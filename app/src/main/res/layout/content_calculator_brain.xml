@@ -271,7 +271,7 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:background="#ffffff"
+        android:background="#fffff0"
         android:gravity="bottom|right"
         android:text="0"
         android:textSize="70sp"
